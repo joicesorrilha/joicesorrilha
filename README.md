@@ -6,11 +6,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joicesorrilha&show_icons=true&theme=dracula)](https://github.com/joicesorrilha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joicesorrilha&show_icons=true&theme=dracula)](https://github.com/joicesorrilha)
+##
 
+<div align="center">
+  <a href="https://github.com/joicesorrilha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joicesorrilha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicesorrilha&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<!---
-joicesorrilha/joicesorrilha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+
+  ![Snake animation](https://github.com/joicesorrilha/joicesorrilha/blob/output/github-contribution-grid-snake.svg)
