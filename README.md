@@ -1,10 +1,10 @@
-## Olá! Hello!! 😁
+## 👋🏼 Olá, sou a Joice e sou QA 😉
 
-- 👋 Hi, I’m @joicesorrilha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📙 Atualmente estou cursando MBA em Gestão de Projetos em TI
+- 📚 Também Pós Graduação em Qualidade, Testes e Desenvolvimento de Softwares em Metodologias Ágeis
+- 📧 e-mail: joice.jra@gmail.com
+
 
 ##
 
