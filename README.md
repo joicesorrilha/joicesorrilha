@@ -16,4 +16,4 @@
 
 ##
 
-  ![Snake animation](https://github.com/joicesorrilha/joicesorrilha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joicesorrilha/joicesorrilha/blob/output/github-contribution-grid-snake.svg)
