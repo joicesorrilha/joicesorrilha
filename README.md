@@ -3,6 +3,7 @@
 
 - 📙 Atualmente estou cursando MBA em Gestão de Projetos em TI
 - 📚 Também Pós Graduação em Qualidade, Testes e Desenvolvimento de Softwares em Metodologias Ágeis
+- 🤓 Estudando Automação de Testes com Java, Maven, Cucumber, JUnit, Selenium, Cypress, Node.js.
 - 📧 e-mail: joice.jra@gmail.com
 
 
