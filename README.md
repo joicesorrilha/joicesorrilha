@@ -6,7 +6,7 @@
 - 🤓 Estudando Automação de Testes com Java, Maven, Cucumber, JUnit, Selenium, Cypress, Node.js.
 - 📧 e-mail: joice.jra@gmail.com
 
-
+ 
 ##
 
 <div align="center">
