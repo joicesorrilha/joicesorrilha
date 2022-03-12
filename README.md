@@ -3,7 +3,17 @@
 
 - 📙 Atualmente estou cursando MBA em Gestão de Projetos em TI
 - 📚 Também Pós Graduação em Qualidade, Testes e Desenvolvimento de Softwares em Metodologias Ágeis
-- 🤓 Estudando Automação de Testes com Java, Maven, Cucumber, JUnit, Selenium, Cypress, Node.js.
+- 🤓 Estudando Automação de Testes com Java, Maven, Cucumber, JUnit, Selenium.
+- 🤓 Conhecimentos em Cypress - JavaScript com Node.js
+      - Instalação e Setup inicial;
+      - Selector Playground;
+      - Técnica Checkpoint / validação de steps;
+      - Criação de massa de testes;
+      - Massa de teste dinamica e estatica
+      - Interagir com os principais elementos HTML
+      - Estrutura com Page Objects
+      - Cypress Run, evidências em vídeos
+      - Execução de testes em modo headless
 - 📧 e-mail: joice.jra@gmail.com
 
  
