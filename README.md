@@ -1,30 +1,33 @@
-## 👋🏼 Olá, sou a Joice e sou QA 😉
+# Olá, sou a Joice! 👋
 
+### QA Lead | Senior Software Quality Assurance Engineer | Evangelista Agile
 
-- 📙 Atualmente estou cursando MBA em Gestão de Projetos em TI
-- 📚 Também Pós Graduação em Qualidade, Testes e Desenvolvimento de Softwares em Metodologias Ágeis
-- 🤓 Estudando Automação de Testes com Java, Maven, Cucumber, JUnit, Selenium.
-- 🤓 Conhecimentos em Cypress - JavaScript com Node.js
-      - Instalação e Setup inicial;
-      - Selector Playground;
-      - Técnica Checkpoint / validação de steps;
-      - Criação de massa de testes;
-      - Massa de teste dinamica e estatica
-      - Interagir com os principais elementos HTML
-      - Estrutura com Page Objects
-      - Cypress Run, evidências em vídeos
-      - Execução de testes em modo headless
-- 📧 e-mail: joice.jra@gmail.com
+Sou uma profissional especialista em Garantia da Qualidade de Software (QA) com uma visão 360° sobre o ciclo de vida de desenvolvimento de software. Combino uma sólida experiência técnica em testes com competências avançadas em otimização de processos, metodologias ágeis (Scrum) e gestão estratégica.
 
- 
-##
+A minha especialidade é desenhar e implementar estratégias de testes robustas e alinhadas rigorosamente com os objetivos de negócio, garantindo entregas de alta qualidade através do equilíbrio ideal entre testes funcionais, automação e testes exploratórios.
 
-<div align="center">
-  <a href="https://github.com/joicesorrilha">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joicesorrilha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicesorrilha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
 
-##
+### 🛠️ Tech Stack & Ferramentas
 
-![Snake animation](https://github.com/joicesorrilha/joicesorrilha/blob/output/github-contribution-grid-snake.svg)
+- **Automação de Testes & BDD:** Playwright, Cypress, Selenium, Cucumber, JUnit.
+- **Contentorização & Infraestrutura de Testes:** Docker (Conceitos e Noções Práticas)
+- **Testes de API & Event Streaming:** Postman, Kafka Tool
+- **Gestão de Testes & Ágil:** Jira, Confluence, X-Ray, Framework Scrum
+- **Bases de Dados & Performance:** Oracle DB, SQL, JMeter
+- **Linguagens & Core Tech:** JavaScript, Python, Ruby, CI/CD (Jenkins)
+
+---
+
+### 📈 Foco Atual
+- Especialização e criação de frameworks modernos com Playwright
+- Arquitetura de testes automatizados e integração com ambientes contentorizados (Docker)
+- Melhoria Contínua de Processos e Governança de QA
+
+---
+
+### 🤝 Conecta-te comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joice-sorrilha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joice.jra@gmail.com)
+
+*“A qualidade não é um ato, é um hábito.”*
