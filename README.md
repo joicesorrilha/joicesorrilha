@@ -1,6 +1,6 @@
 # Olá, sou a Joice! 👋
 
-### QA Lead | Senior Software Quality Assurance Engineer | Evangelista Agile
+### QA Lead | Senior Software Quality Assurance Engineer
 
 Sou uma profissional especialista em Garantia da Qualidade de Software (QA) com uma visão 360° sobre o ciclo de vida de desenvolvimento de software. Combino uma sólida experiência técnica em testes com competências avançadas em otimização de processos, metodologias ágeis (Scrum) e gestão estratégica.
 
@@ -16,13 +16,6 @@ A minha especialidade é desenhar e implementar estratégias de testes robustas 
 - **Gestão de Testes & Ágil:** Jira, Confluence, X-Ray, Framework Scrum
 - **Bases de Dados & Performance:** Oracle DB, SQL, JMeter
 - **Linguagens & Core Tech:** JavaScript, Python, Ruby, CI/CD (Jenkins)
-
----
-
-### 📈 Foco Atual
-- Especialização e criação de frameworks modernos com Playwright
-- Arquitetura de testes automatizados e integração com ambientes contentorizados (Docker)
-- Melhoria Contínua de Processos e Governança de QA
 
 ---
 
